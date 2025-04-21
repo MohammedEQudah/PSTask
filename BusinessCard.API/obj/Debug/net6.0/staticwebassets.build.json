@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "aGxSe2pDWLmEZd9zuas9H95B+9X8KxrggujRPszIEvk=",
+  "Source": "BusinessCard.API",
+  "BasePath": "_content/BusinessCard.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

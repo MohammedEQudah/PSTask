@@ -1,0 +1,17 @@
+D:\TestProgressSoft\BusinessCard.INFRA\bin\Debug\net6.0\BusinessCard.INFRA.deps.json
+D:\TestProgressSoft\BusinessCard.INFRA\bin\Debug\net6.0\BusinessCard.INFRA.runtimeconfig.json
+D:\TestProgressSoft\BusinessCard.INFRA\bin\Debug\net6.0\BusinessCard.INFRA.dll
+D:\TestProgressSoft\BusinessCard.INFRA\bin\Debug\net6.0\BusinessCard.INFRA.pdb
+D:\TestProgressSoft\BusinessCard.INFRA\bin\Debug\net6.0\BusinessCard.CORE.dll
+D:\TestProgressSoft\BusinessCard.INFRA\bin\Debug\net6.0\BusinessCard.CORE.pdb
+D:\TestProgressSoft\BusinessCard.INFRA\obj\Debug\net6.0\BusinessCard.INFRA.csproj.AssemblyReference.cache
+D:\TestProgressSoft\BusinessCard.INFRA\obj\Debug\net6.0\BusinessCard.INFRA.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestProgressSoft\BusinessCard.INFRA\obj\Debug\net6.0\BusinessCard.INFRA.AssemblyInfoInputs.cache
+D:\TestProgressSoft\BusinessCard.INFRA\obj\Debug\net6.0\BusinessCard.INFRA.AssemblyInfo.cs
+D:\TestProgressSoft\BusinessCard.INFRA\obj\Debug\net6.0\BusinessCard.INFRA.csproj.CoreCompileInputs.cache
+D:\TestProgressSoft\BusinessCard.INFRA\obj\Debug\net6.0\Business.0C616017.Up2Date
+D:\TestProgressSoft\BusinessCard.INFRA\obj\Debug\net6.0\BusinessCard.INFRA.dll
+D:\TestProgressSoft\BusinessCard.INFRA\obj\Debug\net6.0\refint\BusinessCard.INFRA.dll
+D:\TestProgressSoft\BusinessCard.INFRA\obj\Debug\net6.0\BusinessCard.INFRA.pdb
+D:\TestProgressSoft\BusinessCard.INFRA\obj\Debug\net6.0\BusinessCard.INFRA.genruntimeconfig.cache
+D:\TestProgressSoft\BusinessCard.INFRA\obj\Debug\net6.0\ref\BusinessCard.INFRA.dll

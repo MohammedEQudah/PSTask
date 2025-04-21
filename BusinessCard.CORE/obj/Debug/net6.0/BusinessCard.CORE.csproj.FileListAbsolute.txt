@@ -1,0 +1,12 @@
+D:\TestProgressSoft\BusinessCard.CORE\bin\Debug\net6.0\BusinessCard.CORE.deps.json
+D:\TestProgressSoft\BusinessCard.CORE\bin\Debug\net6.0\BusinessCard.CORE.dll
+D:\TestProgressSoft\BusinessCard.CORE\bin\Debug\net6.0\BusinessCard.CORE.pdb
+D:\TestProgressSoft\BusinessCard.CORE\obj\Debug\net6.0\BusinessCard.CORE.csproj.AssemblyReference.cache
+D:\TestProgressSoft\BusinessCard.CORE\obj\Debug\net6.0\BusinessCard.CORE.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestProgressSoft\BusinessCard.CORE\obj\Debug\net6.0\BusinessCard.CORE.AssemblyInfoInputs.cache
+D:\TestProgressSoft\BusinessCard.CORE\obj\Debug\net6.0\BusinessCard.CORE.AssemblyInfo.cs
+D:\TestProgressSoft\BusinessCard.CORE\obj\Debug\net6.0\BusinessCard.CORE.csproj.CoreCompileInputs.cache
+D:\TestProgressSoft\BusinessCard.CORE\obj\Debug\net6.0\BusinessCard.CORE.dll
+D:\TestProgressSoft\BusinessCard.CORE\obj\Debug\net6.0\refint\BusinessCard.CORE.dll
+D:\TestProgressSoft\BusinessCard.CORE\obj\Debug\net6.0\BusinessCard.CORE.pdb
+D:\TestProgressSoft\BusinessCard.CORE\obj\Debug\net6.0\ref\BusinessCard.CORE.dll
