@@ -1,3 +1,5 @@
+#importent
+
 make sure you have installed visual studio (2022) and have this all packages :
 1.data storage and processing build tools.
 2.asp.net and web development.
@@ -7,7 +9,12 @@ make sure you have installed visual studio (2022) and have this all packages :
 on my pc the host is (192.168.1.8) 
 maybe your pc difference (this iformation is very importent to make the connection between api project and database)
 
+#Additionl filtaring
 
+about filtaring i am add all filtaring you ask on the task file
+but i dont use it on the angular files
+i am used custom pipes for filtaring 
 
+#Second Repo
 go to angular file project 
 https://github.com/MohammedEQudah/AngularBusinessCard
