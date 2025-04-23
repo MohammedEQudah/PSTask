@@ -7,3 +7,7 @@ make sure you have installed visual studio (2022) and have this all packages :
 on my pc the host is (192.168.1.8) 
 maybe your pc difference (this iformation is very importent to make the connection between api project and database)
 
+
+
+go to angular file project 
+https://github.com/MohammedEQudah/AngularBusinessCard
