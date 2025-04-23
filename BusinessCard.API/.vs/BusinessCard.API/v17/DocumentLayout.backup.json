@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\ProgressSoftAPI\\BusinessCard.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProgressSoftAPI\\BusinessCard.API\\Controllers\\CardController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\CardController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProgressSoftAPI\\BusinessCard.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A31DDF00-740F-4EE8-9A89-555BC8DB44F7}|BusinessCard.API.csproj|d:\\progresssoftapi\\businesscard.api\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31DDF00-740F-4EE8-9A89-555BC8DB44F7}|BusinessCard.API.csproj|solutionrelative:controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TestProgressSoft\\BusinessCard.CORE\\Service\\ICardService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -21,6 +17,10 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TestProgressSoft\\BusinessCard.INFRA\\Repository\\CardRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31DDF00-740F-4EE8-9A89-555BC8DB44F7}|BusinessCard.API.csproj|d:\\progresssoftapi\\businesscard.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31DDF00-740F-4EE8-9A89-555BC8DB44F7}|BusinessCard.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ProgressSoftAPI\\BusinessCard.API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -52,14 +52,14 @@
               "RelativeDocumentMoniker": "Controllers\\CardController.cs",
               "ToolTip": "D:\\ProgressSoftAPI\\BusinessCard.API\\Controllers\\CardController.cs",
               "RelativeToolTip": "Controllers\\CardController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAMwCUAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwDkAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T13:21:02.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ICardService.cs",
               "DocumentMoniker": "D:\\TestProgressSoft\\BusinessCard.CORE\\Service\\ICardService.cs",
               "RelativeDocumentMoniker": "..\\..\\TestProgressSoft\\BusinessCard.CORE\\Service\\ICardService.cs",
@@ -71,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CardService.cs",
               "DocumentMoniker": "D:\\TestProgressSoft\\BusinessCard.INFRA\\Service\\CardService.cs",
               "RelativeDocumentMoniker": "..\\..\\TestProgressSoft\\BusinessCard.INFRA\\Service\\CardService.cs",
@@ -83,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ICardRepository.cs",
               "DocumentMoniker": "D:\\TestProgressSoft\\BusinessCard.CORE\\Repository\\ICardRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\TestProgressSoft\\BusinessCard.CORE\\Repository\\ICardRepository.cs",
@@ -95,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "CardRepository.cs",
               "DocumentMoniker": "D:\\TestProgressSoft\\BusinessCard.INFRA\\Repository\\CardRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\TestProgressSoft\\BusinessCard.INFRA\\Repository\\CardRepository.cs",
